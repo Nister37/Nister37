@@ -63,7 +63,6 @@ flowchart LR
     C --> P1[Traffic Lights Management System]
     E --> P2[ServicePulse Link Monitor]
     F --> P3[KdGRides]
-    G --> P4[Gazetkomania Automation]
 ```
 
 ---
