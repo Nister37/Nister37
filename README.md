@@ -21,6 +21,7 @@
 
 I build practical software systems with a strong focus on backend development, automation, data processing, infrastructure basics and maintainable project structure.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pawelryfiak.is--a.dev-4CAF50?style=for-the-badge&logo=astro&logoColor=white)](https://pawelryfiak.is-a.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Nister37-181717?style=for-the-badge\&logo=github)](https://github.com/Nister37)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pawe%C5%82%20Ryfiak-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pawel-ryfiak-029889242/)
 [![Location](https://img.shields.io/badge/Location-Antwerp%20%2F%20G%C5%82og%C3%B3w-555?style=for-the-badge)](#)
@@ -143,36 +144,6 @@ This timeline shows approximate active-use periods, not strict employment experi
 | **Traffic Lights Management System** | Individual academic project               | Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Thymeleaf, Spring Security, JUnit          | Layered Spring application, CRUD, validation, persistence, security basics and testing                  |
 | **ServicePulse Link Monitor**        | Individual infrastructure-focused project | Spring Boot, PostgreSQL, Docker Compose, Caddy, Linux, GCP                                             | Full-cycle backend plus deployment: app, database, reverse proxy, HTTPS and server setup                |
 | **Roometrix**                        | IoT / web concept                         | Spring Boot, PostgreSQL, IoT sensors, dashboards                                                       | Indoor air-quality monitoring concept combining backend, data and hardware-oriented thinking            |
-| **Rainsnow**                         | Python utility                            | Python, weather data, desktop notifications                                                            | Small practical automation tool for rainfall/snowfall notifications                                     |
-
----
-
-## Project roadmap
-
-```mermaid
-flowchart TD
-    Start[GitHub portfolio cleanup] --> Profile[Profile README]
-    Profile --> RepoDocs[Improve README files in selected repos]
-    RepoDocs --> Traffic[Publish Traffic Lights project]
-    RepoDocs --> Service[Publish ServicePulse project]
-    RepoDocs --> KdG[KdGRides case study]
-
-    Traffic --> BackendTrack[Backend portfolio track]
-    Service --> InfraTrack[Infrastructure portfolio track]
-    KdG --> TeamTrack[Team project track]
-
-    BackendTrack --> Tests[Better tests and examples]
-    InfraTrack --> DeployDocs[Deployment docs and diagrams]
-    TeamTrack --> Screenshots[Case study screenshots and contribution notes]
-
-    Tests --> Portfolio[Personal portfolio website]
-    DeployDocs --> Portfolio
-    Screenshots --> Portfolio
-
-    Portfolio --> Internship[Internship applications]
-    Internship --> ProfessionalWork[Junior backend / automation role]
-```
-
 ---
 
 ## How I usually approach projects
@@ -194,8 +165,6 @@ I prefer systems that are explainable: clear responsibilities, predictable data 
 
 ## What I am working on now
 
-* Preparing a cleaner GitHub portfolio around backend, automation and infrastructure projects
-* Building a personal portfolio website with Astro, Svelte, Tailwind, Sass, daisyUI, Bun and GitHub Pages
 * Improving Spring Boot project structure, testing habits and documentation quality
 * Learning more about CI/CD, deployment reliability, reverse proxies, Linux servers and cloud basics
 * Exploring practical AI-assisted automation with OCR, LLM APIs and local developer tooling
@@ -216,6 +185,31 @@ I use **LeetCode** to keep improving algorithmic thinking, problem decomposition
 
 ---
 
+## Learning roadmaps
+
+I track my learning progress on [roadmap.sh](https://roadmap.sh/u/pawelryfiak). Percentages reflect topics marked as done at the time of writing.
+
+<div align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/tall/69032bedb0418a041e838ed9?variant=dark&roadmaps=)](https://roadmap.sh/u/pawelryfiak)
+
+</div>
+
+| Roadmap | Progress | Link |
+| ------- | :------: | ---- |
+| HTML | 78% | [roadmap.sh/html](https://roadmap.sh/html) |
+| CSS | 70% | [roadmap.sh/css](https://roadmap.sh/css) |
+| SQL | 55% | [roadmap.sh/sql](https://roadmap.sh/sql) |
+| Java | 40% | [roadmap.sh/java](https://roadmap.sh/java) |
+| JavaScript | 33% | [roadmap.sh/javascript](https://roadmap.sh/javascript) |
+| Backend | 27% | [roadmap.sh/backend](https://roadmap.sh/backend) |
+| Frontend | 23% | [roadmap.sh/frontend](https://roadmap.sh/frontend) |
+| Python | 19% | [roadmap.sh/python](https://roadmap.sh/python) |
+| Git and GitHub | 8% | [roadmap.sh/git-github](https://roadmap.sh/git-github) |
+| DevOps | 4% | [roadmap.sh/devops](https://roadmap.sh/devops) |
+
+---
+
 ## Professional interests
 
 * Backend engineering with Java and Spring Boot
@@ -226,26 +220,5 @@ I use **LeetCode** to keep improving algorithmic thinking, problem decomposition
 * Python automation for repetitive workflows
 * AI-assisted tools that solve practical business problems
 * IoT and embedded prototypes when they connect to real software systems
-
----
-
-## GitHub profile plan
-
-Pinned repositories should represent the current direction, not every old learning exercise.
-
-| Priority | Repository idea                        | Purpose                                                                                      |
-| -------: | -------------------------------------- | -------------------------------------------------------------------------------------------- |
-|        1 | `kdgrides-case-study`                  | Main team-project case study with selected contributions, screenshots and architecture notes |
-|        2 | `traffic-lights-management-system`     | Main Spring Boot / Java backend project                                                      |
-|        3 | `servicepulse-link-monitor`            | Backend + Docker + deployment project                                                        |
-|        4 | `portfolio-website`                    | Modern personal website built with Astro/Svelte/Tailwind                                     |
-|        5 | `rainsnow` or selected utility project | Small practical Python automation project                                                    |
-
----
-
-## Contact
-
-* GitHub: [github.com/Nister37](https://github.com/Nister37)
-* LinkedIn: [linkedin.com/in/pawel-ryfiak-029889242](https://www.linkedin.com/in/pawel-ryfiak-029889242/)
 
 ---
