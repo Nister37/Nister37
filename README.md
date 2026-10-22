@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0F172A,50:1E3A8A,100:14B8A6&text=Full%20Stack%20Developer%20and%20DevOps&fontColor=F8FAFC&fontSize=34&fontAlignY=40&desc=Paweł Ryfiak&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Building Reliable Systems banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0F172A,50:1E3A8A,100:14B8A6&text=Full%20Stack%20Developer%20and%20DevOps&fontColor=F8FAFC&fontSize=32&fontAlignY=40&desc=Pawe%C5%82%20Ryfiak&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Paweł Ryfiak — Full Stack Developer and DevOps" />
 
 **Transforming Ideas into Real Products**
 
@@ -101,7 +102,7 @@ I use **LeetCode** to keep improving algorithmic thinking, problem decomposition
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-pawelqbc-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pawelqbc/)
 
-<img src="https://leetcard.jacoblin.cool/pawelqbc?theme=dark&font=Inter&ext=heatmap" alt="Paweł Ryfiak LeetCode profile card" />
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/pawelqbc?theme=dark)](https://leetcode.com/u/pawelqbc/)
 
 </div>
 
@@ -110,12 +111,6 @@ I use **LeetCode** to keep improving algorithmic thinking, problem decomposition
 ## Learning roadmaps
 
 I track my learning progress on [roadmap.sh](https://roadmap.sh/u/pawelryfiak). Percentages reflect topics marked as done at the time of writing.
-
-<div align="center">
-
-### Learning roadmaps
-
-I use [roadmap.sh](https://roadmap.sh/u/pawelryfiak) to track my progress and identify gaps in my technical knowledge.
 
 <div align="center">
 
